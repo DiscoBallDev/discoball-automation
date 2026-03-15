@@ -54,6 +54,10 @@ Example demonstrations of the automation in action:
 - https://app.discoball.click/videos/redacted_3420_h264.mp4  
 - https://app.discoball.click/videos/output_side_by_side_h264.mp4  
 
+## Demo Screenshot
+
+
+
 ---
 
 ## Installation
