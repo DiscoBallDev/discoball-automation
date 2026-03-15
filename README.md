@@ -1,8 +1,8 @@
 # DiscoBall – Android UI Automation Tool
 
 
-<p align="center">
-  <img src="demo.png"  width="25%">
+<p align="left">
+  <img src="demo.png"  width="33%">
 </p>
 
 DiscoBall is a lightweight Android UI automation tool that performs repetitive interactions using image detection instead of fixed coordinates.
