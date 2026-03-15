@@ -56,7 +56,7 @@ Example demonstrations of the automation in action:
 
 ## Demo Screenshot
 
-
+![DiscoBall demo](demo.png)
 
 ---
 
