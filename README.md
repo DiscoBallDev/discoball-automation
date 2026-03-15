@@ -1,6 +1,11 @@
 # DiscoBall – Android UI Automation Tool
 
-DiscoBall is a lightweight Android UI automation tool that performs repetitive interactions using image detection instead of fixed screen coordinates.
+
+<p align="center">
+  <img src="screenshots/demo.png" width="700">
+</p>
+
+DiscoBall is a lightweight Android UI automation tool that performs repetitive interactions using image detection instead of fixed coordinates.
 
 The application analyzes what is currently visible on the screen and decides which action to perform based on detected UI elements. This approach makes the automation more resilient to UI changes, animations, and unexpected popups.
 
@@ -53,10 +58,6 @@ Example demonstrations of the automation in action:
 - https://app.discoball.click/videos/redacted_3419_h264.mp4  
 - https://app.discoball.click/videos/redacted_3420_h264.mp4  
 - https://app.discoball.click/videos/output_side_by_side_h264.mp4  
-
-## Demo Screenshot
-
-![DiscoBall demo](demo.png)
 
 ---
 
