@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="demo.png"  width="50%">
+  <img src="demo.png"  width="25%">
 </p>
 
 DiscoBall is a lightweight Android UI automation tool that performs repetitive interactions using image detection instead of fixed coordinates.
